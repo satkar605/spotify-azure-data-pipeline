@@ -1,0 +1,9 @@
+{
+	"name": "df-spotifypipeline",
+	"location": "southcentralus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "74f935dc-8e4f-42c9-ae6d-b56c882a900f",
+		"tenantId": "11f20c63-e5a9-414c-bc47-30c6842ff3bd"
+	}
+}
